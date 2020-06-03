@@ -1,0 +1,3 @@
+/root/1_custom_device_drivers/1_basic_hello_driver/1_hello_lkm.ko
+/root/1_custom_device_drivers/1_basic_hello_driver/1_hello_lkm.o
+

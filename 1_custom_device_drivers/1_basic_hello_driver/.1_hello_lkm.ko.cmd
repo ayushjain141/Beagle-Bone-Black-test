@@ -1,0 +1,1 @@
+cmd_/root/1_custom_device_drivers/1_basic_hello_driver/1_hello_lkm.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -T ./arch/arm/kernel/module.lds -o /root/1_custom_device_drivers/1_basic_hello_driver/1_hello_lkm.ko /root/1_custom_device_drivers/1_basic_hello_driver/1_hello_lkm.o /root/1_custom_device_drivers/1_basic_hello_driver/1_hello_lkm.mod.o ;  true
